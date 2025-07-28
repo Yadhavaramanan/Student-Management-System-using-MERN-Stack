@@ -70,7 +70,7 @@ Student-Management-System/
 │
 └── README.md
 ```
-
+---
 ## 🤝 Author
 
 Yadhavaramanan C
