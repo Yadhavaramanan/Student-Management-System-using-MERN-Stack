@@ -79,7 +79,7 @@ GitHub: @Yadhavaramanan
 ---
 ## 📄 License
 
-this is a personal project for learning and understanding the CRUD Operations.
+This is a personal project for learning and understanding the CRUD Operations.
 
 ---
 
