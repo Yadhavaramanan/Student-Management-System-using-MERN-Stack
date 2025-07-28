@@ -29,15 +29,19 @@ cd Student-Management-System-using-MERN-Stack
 ### 2.Setup Backend
 ```
 cd backend
-npm install```
-
+npm install
+```
 Create a .env file inside the backend folder:
+
 ```
 PORT=5000
-MONGODB_URI=your_mongodb_connection_string_here ```
+MONGODB_URI=your_mongodb_connection_string_here
+```
 
 Then start the backend:
-``` npm start ```
+```
+npm start 
+```
 
 ### 3. Setup Frontend
 In a terminal:
